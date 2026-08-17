@@ -1,0 +1,6 @@
+{
+  "name": "Cash Ludo",
+  "description": "Play Cash Ludo with real-time multiplayer battles, quick 1v1 contests, points tournament modes, interactive dice physics, wallet balance, and exciting cash rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
